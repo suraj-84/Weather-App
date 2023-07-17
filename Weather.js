@@ -52,4 +52,4 @@ document
     }
   });
 
-weather.fetchWeather("Goa");
+weather.fetchWeather("Patna");
